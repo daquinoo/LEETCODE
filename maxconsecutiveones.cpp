@@ -1,3 +1,5 @@
+// Find maximum number of consecutive ones in an array
+
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
